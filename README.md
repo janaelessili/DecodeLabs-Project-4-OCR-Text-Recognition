@@ -239,4 +239,4 @@ This project is open-source and available under the [MIT License](https://openso
 
 ---
 
-> **Built with ❤️ as part of the Week 4 AI Internship Project**
+
